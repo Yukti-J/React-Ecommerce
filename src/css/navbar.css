@@ -1,0 +1,31 @@
+.navigation{
+    background-color: aliceblue;
+    height: 9vh;
+}
+
+.navbar{
+    list-style: none;
+    float: right;
+}
+
+li{
+    display: inline;
+    margin: 8px;
+    margin-right: 15px;
+}
+
+.logo{
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+    padding-left: 10px;
+}
+
+.navlinks{
+    float: right;
+}
+
+button{
+    background-color: aliceblue;
+    border: 0 solid black;
+}

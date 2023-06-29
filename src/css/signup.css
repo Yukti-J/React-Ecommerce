@@ -1,0 +1,42 @@
+.form{
+    width: 60%;
+    margin: auto;
+    margin-top: 70px;
+    padding: 10px;
+    border: rgb(140, 140, 140) 1px solid;
+    border-radius: 10px;
+}
+
+.title{
+    background-color: #88e888;
+    border-radius: 10px;
+}
+
+h3{
+    padding: 6px;
+    margin-left: 4px;
+}
+
+.error-msg{
+    width: 60%;
+    margin: auto;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.success-msg{
+    width: 60%;
+    margin: auto;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+p{
+    margin-top: 20px;
+}
